@@ -1,7 +1,4 @@
-terraform.tfstate
-terraform.tfstate.backup
-matthew.stone.varfile
-puppetdemos
-puppetdemos.pub
+terraform.tfstate*
+chris.roberson.varfile
 .terraform/
 keys/
